@@ -149,6 +149,68 @@ This project is for educational/demo purposes only.
 
 ---
 
+# Contact & Interaction Mini-CRM
+
+![Your Name](https://your-photo-url.com/photo.jpg)
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Setup Instructions](#setup-instructions)
+- [Architecture Decisions](#architecture-decisions)
+- [Trade-offs](#trade-offs)
+- [Live Demo](#live-demo)
+- [Loom Video Walkthrough](#loom-video-walkthrough)
+- [License](#license)
+
+## Project Overview
+The Contact & Interaction Mini-CRM is a web application designed to help users manage a list of contacts and log interaction notes. Built with Next.js, React, Zustand, and Tailwind CSS, this project demonstrates modern web development practices, including state management, responsive design, and accessibility.
+
+## Technologies Used
+- **Next.js** (App Router)
+- **React** (Hooks)
+- **Zustand** (State Management)
+- **Tailwind CSS** (Styling)
+- **LocalStorage** (Data Persistence)
+
+## Features
+### Must-Have
+1. **Routing**: 
+   - `/contacts` shows a paginated list of contacts.
+   - `/contacts/[id]` shows detailed information for a specific contact.
+   
+2. **CRUD Operations**: 
+   - Users can Create, Read, Update, and Delete contacts and their interaction notes.
+
+3. **State Management**: 
+   - All contact data and UI flags are managed using Zustand.
+
+4. **Persistence**: 
+   - Data is persisted in localStorage, allowing it to reload after a refresh.
+
+5. **Search & Filter**: 
+   - Full-text search bar and tag filter for instantaneous filtering of contacts.
+
+6. **Responsive UI**: 
+   - Tailwind-styled layout adapts down to 375px width, including a dark-mode toggle.
+
+7. **Accessibility**: 
+   - Keyboard-navigable modals/forms, semantic HTML, and basic ARIA labels.
+
+### Nice-to-Have (Stretch Goals)
+- **API Routes**: Mocked REST endpoints under `/api/contacts`.
+- **SSR/SSG**: Pre-render contacts list using `generateStaticParams`.
+- **Infinite Scroll**: Lazy-load more contacts via IntersectionObserver.
+- **Unit Tests**: Jest + React Testing Library for store logic & at least one UI component.
+- **CI**: GitHub Actions workflow for linting & testing.
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/contact-mini-crm.git
+   cd contact-mini-crm
+
 ## 🙌 Acknowledgements
 
 Thanks to the reviewing team for the opportunity!  
