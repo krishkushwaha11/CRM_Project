@@ -1,1 +1,2 @@
-https://preview--interaction-hub-mini.lovable.app/contacts
+Mini-CRM: Contact & Interaction Management System
+
