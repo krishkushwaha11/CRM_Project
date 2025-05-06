@@ -137,3 +137,7 @@ The Contact & Interaction Mini-CRM is a web application designed to help users m
 
 This project is for educational/demo purposes only.
 
+## Contact
+
+- https://www.linkedin.com/in/krishk1/
+
