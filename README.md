@@ -100,7 +100,10 @@ The Contact & Interaction Mini-CRM is a web application designed to help users m
 ## 📸 Screenshots
 
 ### 📋 Contact List Page
-![Homepage Screenshot](public/homepage-preview.png)
+## 📸 Homepage Preview
+
+![Homepage Screenshot](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/public/homepage-preview.png)
+
 
 ### 🧾 Contact Detail with Notes
 ![Contact Detail](https://your-screenshot-url.com/detail.png)
