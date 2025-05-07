@@ -129,7 +129,7 @@ The Contact & Interaction Mini-CRM is a web application designed to help users m
 
 - **GitHub Repo**: [https://github.com/krishkushwaha11/CRM_Project)
 - **Demo URL**: [https://contact-mini-crm.vercel.app](https://contact-mini-crm.vercel.app)
-- **Loom Video**: [https://www.loom.com/share/c78c302311d54c1981436df33158f321?sid=49ffa4a4-26e0-40be-8537-46bb960d135c)
+- **Loom Video**: [https://www.loom.com/share/0963b90d8eb64f859f5cde134e8ff3c9?sid=7ae61c00-8e52-419c-9cc5-ec3516cc8291)
 
 ---
 
